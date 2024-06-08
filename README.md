@@ -41,6 +41,8 @@
 <p>Implementamos a alternância de modo claro/escuro utilizando JavaScript para adicionar e remover classes CSS que definem os estilos correspondentes. O usuário pode mudar o tema com um simples clique, e a preferência é salva localmente para manter a escolha mesmo após recarregar a página.</p>
 
 
+
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gleisson-braga-174a5b1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:bragagleisson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
